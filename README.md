@@ -2,7 +2,8 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Web development and design</b>
-<href="
+
+<a href="https://github.com/leah-kk-tech/weatherdashboard">Weather Dashboard</a>
   
 - <b>JavaScript</b>
   
