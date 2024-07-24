@@ -4,6 +4,7 @@
 - <b>Web development and design</b>
 
 <a href="https://github.com/leah-kk-tech/weatherdashboard">Weather Dashboard</a>
+
 <a href="https://github.com/leah-kk-tech/foodforlife-website-">Restaurant website</a>
   
 - <b>JavaScript</b>
